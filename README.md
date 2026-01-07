@@ -1,1 +1,1 @@
-# verilog-for-hardware
+# Binary to gray converter verilog 
