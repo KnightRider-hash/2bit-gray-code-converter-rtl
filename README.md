@@ -1,6 +1,6 @@
 # Binary to gray converter verilog 
 Its a 2 bit binary to gray converter written in verilog 
-##input and output
+## input and output
 input b1,b0(wire data type) and output g1,g0(reg data type)
 
 Expected Output
